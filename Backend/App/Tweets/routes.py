@@ -7,4 +7,4 @@ from Utils import ConnectTwitter
 @cross_origin()
 def getTweets():
     searchWords = "visit"
-    return make_response(ConnectTwitter.getSearchResult(searchWords), 200)
+    return make_response(ConnectTwitter.getAllTweets(searchWords), 200) #ConnectTwitter.getSearchResult(searchWords), 200)
