@@ -20,6 +20,10 @@ function LandingPageHeader(props) {
         props.setData([res.data, goodResp.data]);
       });
     });
+    props.setLoader(true)
+    setTimeout(() =>{
+      props.setLoader(false);
+    }, 5000);
   }
 
   React.useEffect(() => {

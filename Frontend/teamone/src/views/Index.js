@@ -16,6 +16,7 @@ import ExamplesNavbar from "components/Navbars/ExamplesNavbar.js";
 import LandingPageHeader from "components/Headers/LandingPageHeader.js";
 import DemoFooter from "components/Footers/DemoFooter.js";
 import axios from "axios";
+import Loader from "components/Loader/Loader";
 
 
 const campaigns =["plantatree"]
@@ -26,6 +27,7 @@ function LandingPage() {
   const [data, setData] = React.useState([])
   const [processedData, setProcessedData] = React.useState([])
   const [points, setPoints] = React.useState(0)
+  const [loader, setLoader] = React.useState(false)
   React.useEffect(() => {
     document.body.classList.add("profile-page");
     let count = 0;
@@ -91,12 +93,14 @@ function LandingPage() {
     }
   }, [data]);
 
-
+  if(loader){
+    return <Loader/>
+  }
 
   return (
     <>
       <ExamplesNavbar />
-      <LandingPageHeader setData={setData}/>
+      <LandingPageHeader setData={setData} setLoader={setLoader}/>
       <div className="main">
         <div className="section text-center">
           <Container>
