@@ -9,6 +9,7 @@ Bearer="AAAAAAAAAAAAAAAAAAAAAF%2FBJwEAAAAA0FPbx0SwVhp1HRXW43vFvzYWWJ8%3Ddd22xWLQ
 searchUrl="https://api.twitter.com/1.1/search/tweets.json"
 geoCodeUrl="https://api.twitter.com/1.1/geo/reverse_geocode.json"
 searchAllUrl="https://api.twitter.com/1.1/tweets/search/"
+userTimeLine="https://api.twitter.com/1.1/statuses/user_timeline.json"
 
 def createHeaders(bearerToken, consumerKey):
     headers = {"Authorization": "Bearer {}".format(bearerToken), "oauth_consumer_key": consumerKey}
@@ -59,3 +60,10 @@ def getRelatedTweets(place, query):
     tempData = [{"name":data[i]["name"], "statuses":tempData[i]["statuses"]} for i in range(len(tempData)) if len(tempData[i]["statuses"]) > 0]
 
     return tempData
+
+
+def getUserTimeline(name):
+    headers = createHeaders(Bearer, ConsumerKey)
+    url = addQuery(userTimeLine+"?", "screen_name", name)
+    data = connectToEndpoint(url, headers, "GET", None)
+    return data

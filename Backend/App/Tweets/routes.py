@@ -23,3 +23,8 @@ def getRelatedTweets(which, place):
 @cross_origin()
 def getNearbyPlaces(place):
     return make_response(jsonify(str(MapConnect.getNearbyPlaces(place, None))), 200)
+
+@bp.route('/getUserTimeline/<name>', methods = ['GET'])
+@cross_origin()
+def getUserTimeline(name):
+    return make_response(jsonify(ConnectTwitter.getUserTimeline(name)), 200)

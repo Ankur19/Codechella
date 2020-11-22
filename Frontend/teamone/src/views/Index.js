@@ -15,13 +15,38 @@ import {
 import ExamplesNavbar from "components/Navbars/ExamplesNavbar.js";
 import LandingPageHeader from "components/Headers/LandingPageHeader.js";
 import DemoFooter from "components/Footers/DemoFooter.js";
+import axios from "axios";
+
+
+const campaigns =["plantatree"]
+
 
 function LandingPage() {
   document.documentElement.classList.remove("nav-open");
   const [data, setData] = React.useState([])
   const [processedData, setProcessedData] = React.useState([])
+  const [points, setPoints] = React.useState(0)
   React.useEffect(() => {
     document.body.classList.add("profile-page");
+    let count = 0;
+    axios.get("http://localhost:5000/getUserTimeline/anksaiki1").then(resp => {
+      for(let i=0; i< resp.data.length; i++){
+        const tweet = resp.data[i];
+        if(tweet.entities.hashtags.length > 0){
+          let hashtags = tweet.entities.hashtags;
+          for(let j = 0; j< hashtags.length; j++){
+            for(let k=0; k<campaigns.length; k++){
+              if (campaigns[k]===hashtags[j].text.toString()){
+                count++;
+              }
+            }
+          }
+        }
+      }
+      setPoints(count);
+    })
+
+
     return function cleanup() {
       document.body.classList.remove("profile-page");
     };
@@ -155,6 +180,58 @@ function LandingPage() {
               <a className="btn btn-light " href={val} target="_blank" rel="noopener noreferrer nofollow">Open Tweet</a>
               </Col>)}) : null}
             </Row>
+          </Container>
+        </div>
+        <div className="section section-light text-center">
+          <Container>
+          <h2 className="title">Climate Social</h2>
+          <hr></hr>
+          <Row >
+            <Col md="5">
+                <div className="info">
+                  <div className="icon icon-info">
+                    <i className="nc-icon nc-sun-fog-29" />
+                  </div>
+                  <div className="description">
+                    <h4 className="info-title">My Points</h4>
+                    <p>
+                      Points get added every time a user contributes something towards fighting climate change and pollution.
+                    </p>
+                  </div>
+                </div>
+            </Col>
+            <Col md="5">
+            <div className="description">
+                <h1 className="info-title font-weight-bold">{points}</h1>
+              </div>
+            </Col>
+          </Row>
+          <br></br>
+          <hr></hr>
+          <Row>
+          <Col md="5">
+            {campaigns.map((val, idx) => {
+              {
+                return <div key={idx} className="description">
+                <h2 className="info-title font-weight-bold">{"#" + val}</h2>
+              </div>
+              }
+            })}
+            </Col>
+          <Col md="5">
+                <div className="info">
+                  <div className="icon icon-info">
+                    <i className="nc-icon nc-bulb-63" />
+                  </div>
+                  <div className="description">
+                    <h4 className="info-title">My Campaigns</h4>
+                    <p>
+                      Add Campaigns to make the earth greener and ask friends to join in
+                    </p>
+                  </div>
+                </div>
+            </Col>
+          </Row>
           </Container>
         </div>
       </div>
