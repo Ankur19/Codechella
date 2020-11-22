@@ -59,7 +59,7 @@ function ExamplesNavbar() {
             title="Coded by Creative Tim"
             tag={Link}
           >
-            Tweetours
+            Twitter-For-Climate
           </NavbarBrand>
           <button
             aria-expanded={navbarCollapse}

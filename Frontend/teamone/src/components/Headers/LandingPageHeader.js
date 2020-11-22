@@ -1,12 +1,26 @@
-import React from "react";
+import React, {useState} from "react";
+import axios from 'axios';
 
 // reactstrap components
 import { Button, Container } from "reactstrap";
 
 // core components
 
-function LandingPageHeader() {
+function LandingPageHeader(props) {
   let pageHeader = React.createRef();
+  const [location, setLocation] = useState("");
+
+  const handleLocChange = (e) => {
+    setLocation(e.target.value)
+  }
+
+  const triggerGetData = () => {
+    axios.get("http://localhost:5000/getRelatedTweets/bad/" + location).then(res =>{
+      axios.get("http://localhost:5000/getRelatedTweets/good/" + location).then(goodResp =>{
+        props.setData([res.data, goodResp.data]);
+      });
+    });
+  }
 
   React.useEffect(() => {
     if (window.innerWidth < 991) {
@@ -36,20 +50,12 @@ function LandingPageHeader() {
         <div className="filter" />
         <Container>
           <div className="motto text-center">
-            <h1>Tweetours</h1>
-            <h3> Uncover the global Twitter heartbeat</h3>
+            <h1>Twitter for Climate</h1>
+            <h3> Uncover insights into pollution and climate changes in your area and take action</h3>
             <br />
-            {/* <Button
-              href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-              className="btn-round mr-1"
-              color="neutral"
-              target="_blank"
-              outline
-            >
-              <i className="fa fa-play" />
-              Watch video
-            </Button> */}
-            <Button className="btn-round" color="neutral" type="button" href="" outline>
+            <input type="text" className="form-control" onChange={e => handleLocChange(e)} placeholder="Search..." />
+            <br/>
+            <Button className="btn-round" onClick={triggerGetData} color="neutral" type="button" href="" outline>
               Let's go
             </Button>
           </div>

@@ -1,0 +1,2465 @@
+[
+    {
+        "search_metadata": {
+            "completed_in": 0.019,
+            "count": 100,
+            "max_id": 1330313877062619138,
+            "max_id_str": "1330313877062619138",
+            "query": "%28litter+OR+pollution%29",
+            "refresh_url": "?since_id=1330313877062619138&q=%28litter%20OR%20pollution%29&geocode=28.6563969%2C77.24354550000001%2C1mi&lang=en&include_entities=1",
+            "since_id": 0,
+            "since_id_str": "0"
+        },
+        "statuses": []
+    },
+    {
+        "search_metadata": {
+            "completed_in": 0.03,
+            "count": 100,
+            "max_id": 1327929045951016960,
+            "max_id_str": "1327929045951016960",
+            "next_results": "?max_id=1327929045951016959&q=%28litter%20OR%20pollution%29&geocode=28.62705470000001%2C77.21662669999999%2C1mi&lang=en&count=100&include_entities=1",
+            "query": "%28litter+OR+pollution%29",
+            "refresh_url": "?since_id=1327929045951016960&q=%28litter%20OR%20pollution%29&geocode=28.62705470000001%2C77.21662669999999%2C1mi&lang=en&include_entities=1",
+            "since_id": 0,
+            "since_id_str": "0"
+        },
+        "statuses": [
+            {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Sun Nov 15 10:58:50 +0000 2020",
+                "entities": {
+                    "hashtags": [],
+                    "media": [
+                        {
+                            "display_url": "pic.twitter.com/ELtLS5nxCD",
+                            "expanded_url": "https://twitter.com/iamshreytyagi/status/1327929045951016960/video/1",
+                            "id": 1327928340578123778,
+                            "id_str": "1327928340578123778",
+                            "indices": [
+                                36,
+                                59
+                            ],
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1327928340578123778/pu/img/F4X7Qu9Pwx2fQ_Jd.jpg",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1327928340578123778/pu/img/F4X7Qu9Pwx2fQ_Jd.jpg",
+                            "sizes": {
+                                "large": {
+                                    "h": 720,
+                                    "resize": "fit",
+                                    "w": 960
+                                },
+                                "medium": {
+                                    "h": 720,
+                                    "resize": "fit",
+                                    "w": 960
+                                },
+                                "small": {
+                                    "h": 510,
+                                    "resize": "fit",
+                                    "w": 680
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "resize": "crop",
+                                    "w": 150
+                                }
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/ELtLS5nxCD"
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [],
+                    "user_mentions": []
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "additional_media_info": {
+                                "monetizable": false
+                            },
+                            "display_url": "pic.twitter.com/ELtLS5nxCD",
+                            "expanded_url": "https://twitter.com/iamshreytyagi/status/1327929045951016960/video/1",
+                            "id": 1327928340578123778,
+                            "id_str": "1327928340578123778",
+                            "indices": [
+                                36,
+                                59
+                            ],
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1327928340578123778/pu/img/F4X7Qu9Pwx2fQ_Jd.jpg",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1327928340578123778/pu/img/F4X7Qu9Pwx2fQ_Jd.jpg",
+                            "sizes": {
+                                "large": {
+                                    "h": 720,
+                                    "resize": "fit",
+                                    "w": 960
+                                },
+                                "medium": {
+                                    "h": 720,
+                                    "resize": "fit",
+                                    "w": 960
+                                },
+                                "small": {
+                                    "h": 510,
+                                    "resize": "fit",
+                                    "w": 680
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "resize": "crop",
+                                    "w": 150
+                                }
+                            },
+                            "type": "video",
+                            "url": "https://t.co/ELtLS5nxCD",
+                            "video_info": {
+                                "aspect_ratio": [
+                                    4,
+                                    3
+                                ],
+                                "duration_millis": 35913,
+                                "variants": [
+                                    {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/ext_tw_video/1327928340578123778/pu/pl/KDwlwujiu9-qO0H_.m3u8?tag=10"
+                                    },
+                                    {
+                                        "bitrate": 2176000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1327928340578123778/pu/vid/960x720/jO6stSpjtTuNzHE1.mp4?tag=10"
+                                    },
+                                    {
+                                        "bitrate": 832000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1327928340578123778/pu/vid/480x360/5ZfyaeGcUqCCXex8.mp4?tag=10"
+                                    },
+                                    {
+                                        "bitrate": 256000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1327928340578123778/pu/vid/360x270/uxAZ2GN66v5Tvtbv.mp4?tag=10"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "favorite_count": 1,
+                "favorited": false,
+                "geo": null,
+                "id": 1327929045951016960,
+                "id_str": "1327929045951016960",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "en",
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "place": {
+                    "attributes": {},
+                    "bounding_box": {
+                        "coordinates": [
+                            [
+                                [
+                                    77.21551895141602,
+                                    28.615267765944425
+                                ],
+                                [
+                                    77.21551895141602,
+                                    28.615267765944425
+                                ],
+                                [
+                                    77.21551895141602,
+                                    28.615267765944425
+                                ],
+                                [
+                                    77.21551895141602,
+                                    28.615267765944425
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon"
+                    },
+                    "contained_within": [],
+                    "country": "India",
+                    "country_code": "IN",
+                    "full_name": "New Delhi | नई दिल्ली",
+                    "id": "09523331add50000",
+                    "name": "New Delhi | नई दिल्ली",
+                    "place_type": "poi",
+                    "url": "https://api.twitter.com/1.1/geo/id/09523331add50000.json"
+                },
+                "possibly_sensitive": false,
+                "retweet_count": 0,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "text": "Pollution, guys. Delhi's pollution. https://t.co/ELtLS5nxCD",
+                "truncated": false,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Tue Jun 09 10:29:05 +0000 2015",
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "description": "Good For Nothing\n⠀\n⠀\n⠀\n\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀⠀\n⠀\n⠀\n⠀\n⠀\n⠀",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "favourites_count": 3304,
+                    "follow_request_sent": null,
+                    "followers_count": 134,
+                    "following": null,
+                    "friends_count": 153,
+                    "geo_enabled": true,
+                    "has_extended_profile": true,
+                    "id": 3240684614,
+                    "id_str": "3240684614",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": null,
+                    "listed_count": 0,
+                    "location": "",
+                    "name": "Shrey Tyagi",
+                    "notifications": null,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3240684614/1603471868",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1322591361699180545/lM_m-XlW_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1322591361699180545/lM_m-XlW_normal.jpg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "iamshreytyagi",
+                    "statuses_count": 4834,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": null,
+                    "utc_offset": null,
+                    "verified": false
+                }
+            }
+        ]
+    },
+    {
+        "search_metadata": {
+            "completed_in": 0.104,
+            "count": 100,
+            "max_id": 1327978679163527171,
+            "max_id_str": "1327978679163527171",
+            "next_results": "?max_id=1327609957601091594&q=%28litter%20OR%20pollution%29&geocode=28.553492%2C77.25882639999999%2C1mi&lang=en&count=100&include_entities=1",
+            "query": "%28litter+OR+pollution%29",
+            "refresh_url": "?since_id=1327978679163527171&q=%28litter%20OR%20pollution%29&geocode=28.553492%2C77.25882639999999%2C1mi&lang=en&include_entities=1",
+            "since_id": 0,
+            "since_id_str": "0"
+        },
+        "statuses": [
+            {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Sun Nov 15 14:16:04 +0000 2020",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                55,
+                                66
+                            ],
+                            "text": "Diwali2020"
+                        },
+                        {
+                            "indices": [
+                                69,
+                                83
+                            ],
+                            "text": "NewProfilePic"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "display_url": "pic.twitter.com/Lo6KLvl8I7",
+                            "expanded_url": "https://twitter.com/Ispa_shandil22/status/1327978679163527171/photo/1",
+                            "id": 1327978672914001920,
+                            "id_str": "1327978672914001920",
+                            "indices": [
+                                84,
+                                107
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/Em3tkSxVcAApTsb.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/Em3tkSxVcAApTsb.jpg",
+                            "sizes": {
+                                "large": {
+                                    "h": 400,
+                                    "resize": "fit",
+                                    "w": 400
+                                },
+                                "medium": {
+                                    "h": 400,
+                                    "resize": "fit",
+                                    "w": 400
+                                },
+                                "small": {
+                                    "h": 400,
+                                    "resize": "fit",
+                                    "w": 400
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "resize": "crop",
+                                    "w": 150
+                                }
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/Lo6KLvl8I7"
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [],
+                    "user_mentions": []
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "display_url": "pic.twitter.com/Lo6KLvl8I7",
+                            "expanded_url": "https://twitter.com/Ispa_shandil22/status/1327978679163527171/photo/1",
+                            "id": 1327978672914001920,
+                            "id_str": "1327978672914001920",
+                            "indices": [
+                                84,
+                                107
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/Em3tkSxVcAApTsb.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/Em3tkSxVcAApTsb.jpg",
+                            "sizes": {
+                                "large": {
+                                    "h": 400,
+                                    "resize": "fit",
+                                    "w": 400
+                                },
+                                "medium": {
+                                    "h": 400,
+                                    "resize": "fit",
+                                    "w": 400
+                                },
+                                "small": {
+                                    "h": 400,
+                                    "resize": "fit",
+                                    "w": 400
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "resize": "crop",
+                                    "w": 150
+                                }
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/Lo6KLvl8I7"
+                        }
+                    ]
+                },
+                "favorite_count": 2,
+                "favorited": false,
+                "geo": null,
+                "id": 1327978679163527171,
+                "id_str": "1327978679163527171",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "en",
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "place": {
+                    "attributes": {},
+                    "bounding_box": {
+                        "coordinates": [
+                            [
+                                [
+                                    77.23351848935245,
+                                    28.559679908529078
+                                ],
+                                [
+                                    77.23351848935245,
+                                    28.559679908529078
+                                ],
+                                [
+                                    77.23351848935245,
+                                    28.559679908529078
+                                ],
+                                [
+                                    77.23351848935245,
+                                    28.559679908529078
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon"
+                    },
+                    "contained_within": [],
+                    "country": "India",
+                    "country_code": "IN",
+                    "full_name": "GK 1 Market",
+                    "id": "07d9ca8d55886000",
+                    "name": "GK 1 Market",
+                    "place_type": "poi",
+                    "url": "https://api.twitter.com/1.1/geo/id/07d9ca8d55886000.json"
+                },
+                "possibly_sensitive": true,
+                "retweet_count": 0,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "text": "Nobody to choke me but pollution. Happy Diwali tho !!✨\n#Diwali2020 \n #NewProfilePic https://t.co/Lo6KLvl8I7",
+                "truncated": false,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Fri Jul 24 12:23:44 +0000 2020",
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "description": "18. Thanks for pronouncing my name correctly. If you did then illouvyoouuii🌚.",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "instagram.com/ispa_shandil",
+                                    "expanded_url": "http://www.instagram.com/ispa_shandil",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ],
+                                    "url": "https://t.co/GfwWauUo43"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 291,
+                    "follow_request_sent": null,
+                    "followers_count": 28,
+                    "following": null,
+                    "friends_count": 77,
+                    "geo_enabled": true,
+                    "has_extended_profile": true,
+                    "id": 1286638019563237377,
+                    "id_str": "1286638019563237377",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": null,
+                    "listed_count": 0,
+                    "location": "Delhi, India",
+                    "name": "Ispa Shandil ⚖️",
+                    "notifications": null,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1286638019563237377/1598459016",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1327977911895298049/iMNsiG21_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1327977911895298049/iMNsiG21_normal.jpg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "Ispa_shandil22",
+                    "statuses_count": 82,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": "https://t.co/GfwWauUo43",
+                    "utc_offset": null,
+                    "verified": false
+                }
+            },
+            {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Sat Nov 14 13:50:54 +0000 2020",
+                "entities": {
+                    "hashtags": [],
+                    "media": [
+                        {
+                            "display_url": "pic.twitter.com/OH9NK3u13y",
+                            "expanded_url": "https://twitter.com/arvindgunasekar/status/1327609957601091595/video/1",
+                            "id": 1327609916874498048,
+                            "id_str": "1327609916874498048",
+                            "indices": [
+                                57,
+                                80
+                            ],
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1327609916874498048/pu/img/zvzFV2pmo6sk8thd.jpg",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1327609916874498048/pu/img/zvzFV2pmo6sk8thd.jpg",
+                            "sizes": {
+                                "large": {
+                                    "h": 720,
+                                    "resize": "fit",
+                                    "w": 1280
+                                },
+                                "medium": {
+                                    "h": 675,
+                                    "resize": "fit",
+                                    "w": 1200
+                                },
+                                "small": {
+                                    "h": 383,
+                                    "resize": "fit",
+                                    "w": 680
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "resize": "crop",
+                                    "w": 150
+                                }
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/OH9NK3u13y"
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [],
+                    "user_mentions": []
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "additional_media_info": {
+                                "monetizable": false
+                            },
+                            "display_url": "pic.twitter.com/OH9NK3u13y",
+                            "expanded_url": "https://twitter.com/arvindgunasekar/status/1327609957601091595/video/1",
+                            "id": 1327609916874498048,
+                            "id_str": "1327609916874498048",
+                            "indices": [
+                                57,
+                                80
+                            ],
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1327609916874498048/pu/img/zvzFV2pmo6sk8thd.jpg",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1327609916874498048/pu/img/zvzFV2pmo6sk8thd.jpg",
+                            "sizes": {
+                                "large": {
+                                    "h": 720,
+                                    "resize": "fit",
+                                    "w": 1280
+                                },
+                                "medium": {
+                                    "h": 675,
+                                    "resize": "fit",
+                                    "w": 1200
+                                },
+                                "small": {
+                                    "h": 383,
+                                    "resize": "fit",
+                                    "w": 680
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "resize": "crop",
+                                    "w": 150
+                                }
+                            },
+                            "type": "video",
+                            "url": "https://t.co/OH9NK3u13y",
+                            "video_info": {
+                                "aspect_ratio": [
+                                    16,
+                                    9
+                                ],
+                                "duration_millis": 20957,
+                                "variants": [
+                                    {
+                                        "bitrate": 832000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1327609916874498048/pu/vid/640x360/d_zBJz8Qo0mXluGY.mp4?tag=10"
+                                    },
+                                    {
+                                        "bitrate": 2176000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1327609916874498048/pu/vid/1280x720/L9yFbKYBRf18w7yG.mp4?tag=10"
+                                    },
+                                    {
+                                        "bitrate": 256000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1327609916874498048/pu/vid/480x270/dr0EAAWrGk31T149.mp4?tag=10"
+                                    },
+                                    {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/ext_tw_video/1327609916874498048/pu/pl/Sulgm3XPdNREqR6r.m3u8?tag=10"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "favorite_count": 471,
+                "favorited": false,
+                "geo": null,
+                "id": 1327609957601091595,
+                "id_str": "1327609957601091595",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "en",
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "place": {
+                    "attributes": {},
+                    "bounding_box": {
+                        "coordinates": [
+                            [
+                                [
+                                    77.228266,
+                                    28.527139
+                                ],
+                                [
+                                    77.250199,
+                                    28.527139
+                                ],
+                                [
+                                    77.250199,
+                                    28.560477
+                                ],
+                                [
+                                    77.228266,
+                                    28.560477
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon"
+                    },
+                    "contained_within": [],
+                    "country": "India",
+                    "country_code": "IN",
+                    "full_name": "Greater Kailash, New Delhi",
+                    "id": "1c2c8504c9512bc3",
+                    "name": "Greater Kailash",
+                    "place_type": "neighborhood",
+                    "url": "https://api.twitter.com/1.1/geo/id/1c2c8504c9512bc3.json"
+                },
+                "possibly_sensitive": false,
+                "retweet_count": 33,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "text": "Air Pollution ? Who cares ?!\nCrackers have started 🤦🏻‍♂️ https://t.co/OH9NK3u13y",
+                "truncated": false,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Tue Feb 09 13:00:23 +0000 2010",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "description": "Journalist based in Delhi. Masters in International Relations, JNU. RT's are not endorsements.",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "ndtv.com/topic/arvind-g…",
+                                    "expanded_url": "https://www.ndtv.com/topic/arvind-gunasekar",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ],
+                                    "url": "https://t.co/f8RUXAwr4Y"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 9316,
+                    "follow_request_sent": null,
+                    "followers_count": 90283,
+                    "following": null,
+                    "friends_count": 1523,
+                    "geo_enabled": true,
+                    "has_extended_profile": true,
+                    "id": 112709207,
+                    "id_str": "112709207",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": null,
+                    "listed_count": 312,
+                    "location": "New Delhi",
+                    "name": "Arvind Gunasekar",
+                    "notifications": null,
+                    "profile_background_color": "1A1B1F",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/112709207/1497877906",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1105167216872349696/4E06RUnR_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105167216872349696/4E06RUnR_normal.jpg",
+                    "profile_link_color": "2FC2EF",
+                    "profile_sidebar_border_color": "181A1E",
+                    "profile_sidebar_fill_color": "252429",
+                    "profile_text_color": "666666",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "arvindgunasekar",
+                    "statuses_count": 29561,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": "https://t.co/f8RUXAwr4Y",
+                    "utc_offset": null,
+                    "verified": true
+                }
+            }
+        ]
+    },
+    {
+        "search_metadata": {
+            "completed_in": 0.027,
+            "count": 100,
+            "max_id": 1327929045951016960,
+            "max_id_str": "1327929045951016960",
+            "next_results": "?max_id=1327929045951016959&q=%28litter%20OR%20pollution%29&geocode=28.612912%2C77.2295097%2C1mi&lang=en&count=100&include_entities=1",
+            "query": "%28litter+OR+pollution%29",
+            "refresh_url": "?since_id=1327929045951016960&q=%28litter%20OR%20pollution%29&geocode=28.612912%2C77.2295097%2C1mi&lang=en&include_entities=1",
+            "since_id": 0,
+            "since_id_str": "0"
+        },
+        "statuses": [
+            {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Sun Nov 15 10:58:50 +0000 2020",
+                "entities": {
+                    "hashtags": [],
+                    "media": [
+                        {
+                            "display_url": "pic.twitter.com/ELtLS5nxCD",
+                            "expanded_url": "https://twitter.com/iamshreytyagi/status/1327929045951016960/video/1",
+                            "id": 1327928340578123778,
+                            "id_str": "1327928340578123778",
+                            "indices": [
+                                36,
+                                59
+                            ],
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1327928340578123778/pu/img/F4X7Qu9Pwx2fQ_Jd.jpg",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1327928340578123778/pu/img/F4X7Qu9Pwx2fQ_Jd.jpg",
+                            "sizes": {
+                                "large": {
+                                    "h": 720,
+                                    "resize": "fit",
+                                    "w": 960
+                                },
+                                "medium": {
+                                    "h": 720,
+                                    "resize": "fit",
+                                    "w": 960
+                                },
+                                "small": {
+                                    "h": 510,
+                                    "resize": "fit",
+                                    "w": 680
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "resize": "crop",
+                                    "w": 150
+                                }
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/ELtLS5nxCD"
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [],
+                    "user_mentions": []
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "additional_media_info": {
+                                "monetizable": false
+                            },
+                            "display_url": "pic.twitter.com/ELtLS5nxCD",
+                            "expanded_url": "https://twitter.com/iamshreytyagi/status/1327929045951016960/video/1",
+                            "id": 1327928340578123778,
+                            "id_str": "1327928340578123778",
+                            "indices": [
+                                36,
+                                59
+                            ],
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1327928340578123778/pu/img/F4X7Qu9Pwx2fQ_Jd.jpg",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1327928340578123778/pu/img/F4X7Qu9Pwx2fQ_Jd.jpg",
+                            "sizes": {
+                                "large": {
+                                    "h": 720,
+                                    "resize": "fit",
+                                    "w": 960
+                                },
+                                "medium": {
+                                    "h": 720,
+                                    "resize": "fit",
+                                    "w": 960
+                                },
+                                "small": {
+                                    "h": 510,
+                                    "resize": "fit",
+                                    "w": 680
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "resize": "crop",
+                                    "w": 150
+                                }
+                            },
+                            "type": "video",
+                            "url": "https://t.co/ELtLS5nxCD",
+                            "video_info": {
+                                "aspect_ratio": [
+                                    4,
+                                    3
+                                ],
+                                "duration_millis": 35913,
+                                "variants": [
+                                    {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/ext_tw_video/1327928340578123778/pu/pl/KDwlwujiu9-qO0H_.m3u8?tag=10"
+                                    },
+                                    {
+                                        "bitrate": 2176000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1327928340578123778/pu/vid/960x720/jO6stSpjtTuNzHE1.mp4?tag=10"
+                                    },
+                                    {
+                                        "bitrate": 832000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1327928340578123778/pu/vid/480x360/5ZfyaeGcUqCCXex8.mp4?tag=10"
+                                    },
+                                    {
+                                        "bitrate": 256000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1327928340578123778/pu/vid/360x270/uxAZ2GN66v5Tvtbv.mp4?tag=10"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "favorite_count": 1,
+                "favorited": false,
+                "geo": null,
+                "id": 1327929045951016960,
+                "id_str": "1327929045951016960",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "en",
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "place": {
+                    "attributes": {},
+                    "bounding_box": {
+                        "coordinates": [
+                            [
+                                [
+                                    77.21551895141602,
+                                    28.615267765944425
+                                ],
+                                [
+                                    77.21551895141602,
+                                    28.615267765944425
+                                ],
+                                [
+                                    77.21551895141602,
+                                    28.615267765944425
+                                ],
+                                [
+                                    77.21551895141602,
+                                    28.615267765944425
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon"
+                    },
+                    "contained_within": [],
+                    "country": "India",
+                    "country_code": "IN",
+                    "full_name": "New Delhi | नई दिल्ली",
+                    "id": "09523331add50000",
+                    "name": "New Delhi | नई दिल्ली",
+                    "place_type": "poi",
+                    "url": "https://api.twitter.com/1.1/geo/id/09523331add50000.json"
+                },
+                "possibly_sensitive": false,
+                "retweet_count": 0,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "text": "Pollution, guys. Delhi's pollution. https://t.co/ELtLS5nxCD",
+                "truncated": false,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Tue Jun 09 10:29:05 +0000 2015",
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "description": "Good For Nothing\n⠀\n⠀\n⠀\n\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀⠀\n⠀\n⠀\n⠀\n⠀\n⠀",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "favourites_count": 3304,
+                    "follow_request_sent": null,
+                    "followers_count": 134,
+                    "following": null,
+                    "friends_count": 153,
+                    "geo_enabled": true,
+                    "has_extended_profile": true,
+                    "id": 3240684614,
+                    "id_str": "3240684614",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": null,
+                    "listed_count": 0,
+                    "location": "",
+                    "name": "Shrey Tyagi",
+                    "notifications": null,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3240684614/1603471868",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1322591361699180545/lM_m-XlW_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1322591361699180545/lM_m-XlW_normal.jpg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "iamshreytyagi",
+                    "statuses_count": 4834,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": null,
+                    "utc_offset": null,
+                    "verified": false
+                }
+            }
+        ]
+    },
+    {
+        "search_metadata": {
+            "completed_in": 0.014,
+            "count": 100,
+            "max_id": 1330313882049667074,
+            "max_id_str": "1330313882049667074",
+            "query": "%28litter+OR+pollution%29",
+            "refresh_url": "?since_id=1330313882049667074&q=%28litter%20OR%20pollution%29&geocode=28.513403%2C77.1975227%2C1mi&lang=en&include_entities=1",
+            "since_id": 0,
+            "since_id_str": "0"
+        },
+        "statuses": []
+    },
+    {
+        "search_metadata": {
+            "completed_in": 0.019,
+            "count": 100,
+            "max_id": 1330313883131764737,
+            "max_id_str": "1330313883131764737",
+            "query": "%28litter+OR+pollution%29",
+            "refresh_url": "?since_id=1330313883131764737&q=%28litter%20OR%20pollution%29&geocode=28.6561592%2C77.2410203%2C1mi&lang=en&include_entities=1",
+            "since_id": 0,
+            "since_id_str": "0"
+        },
+        "statuses": []
+    },
+    {
+        "search_metadata": {
+            "completed_in": 0.018,
+            "count": 100,
+            "max_id": 1330313884419444743,
+            "max_id_str": "1330313884419444743",
+            "query": "%28litter+OR+pollution%29",
+            "refresh_url": "?since_id=1330313884419444743&q=%28litter%20OR%20pollution%29&geocode=28.8026736%2C77.1439455%2C1mi&lang=en&include_entities=1",
+            "since_id": 0,
+            "since_id_str": "0"
+        },
+        "statuses": []
+    },
+    {
+        "search_metadata": {
+            "completed_in": 0.022,
+            "count": 100,
+            "max_id": 1330313885627387905,
+            "max_id_str": "1330313885627387905",
+            "query": "%28litter+OR+pollution%29",
+            "refresh_url": "?since_id=1330313885627387905&q=%28litter%20OR%20pollution%29&geocode=28.4678664%2C77.0688866%2C1mi&lang=en&include_entities=1",
+            "since_id": 0,
+            "since_id_str": "0"
+        },
+        "statuses": []
+    },
+    {
+        "search_metadata": {
+            "completed_in": 0.014,
+            "count": 100,
+            "max_id": 1330313886554230784,
+            "max_id_str": "1330313886554230784",
+            "query": "%28litter+OR+pollution%29",
+            "refresh_url": "?since_id=1330313886554230784&q=%28litter%20OR%20pollution%29&geocode=28.60674029999999%2C77.2454035%2C1mi&lang=en&include_entities=1",
+            "since_id": 0,
+            "since_id_str": "0"
+        },
+        "statuses": []
+    },
+    {
+        "search_metadata": {
+            "completed_in": 0.016,
+            "count": 100,
+            "max_id": 1330313887988785154,
+            "max_id_str": "1330313887988785154",
+            "query": "%28litter+OR+pollution%29",
+            "refresh_url": "?since_id=1330313887988785154&q=%28litter%20OR%20pollution%29&geocode=28.6506792%2C77.23344209999999%2C1mi&lang=en&include_entities=1",
+            "since_id": 0,
+            "since_id_str": "0"
+        },
+        "statuses": []
+    },
+    {
+        "search_metadata": {
+            "completed_in": 0.013,
+            "count": 100,
+            "max_id": 1330313889725231104,
+            "max_id_str": "1330313889725231104",
+            "query": "%28litter+OR+pollution%29",
+            "refresh_url": "?since_id=1330313889725231104&q=%28litter%20OR%20pollution%29&geocode=28.5241772%2C77.1858843%2C1mi&lang=en&include_entities=1",
+            "since_id": 0,
+            "since_id_str": "0"
+        },
+        "statuses": []
+    },
+    {
+        "search_metadata": {
+            "completed_in": 0.102,
+            "count": 100,
+            "max_id": 1329480550508158977,
+            "max_id_str": "1329480550508158977",
+            "next_results": "?max_id=1327609957601091594&q=%28litter%20OR%20pollution%29&geocode=28.5316762%2C77.223452%2C1mi&lang=en&count=100&include_entities=1",
+            "query": "%28litter+OR+pollution%29",
+            "refresh_url": "?since_id=1329480550508158977&q=%28litter%20OR%20pollution%29&geocode=28.5316762%2C77.223452%2C1mi&lang=en&include_entities=1",
+            "since_id": 0,
+            "since_id_str": "0"
+        },
+        "statuses": [
+            {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Thu Nov 19 17:43:58 +0000 2020",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "expanded_url": "https://twitter.com/i/web/status/1329480550508158977",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/CDGq8cccu6"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 2,
+                "favorited": false,
+                "geo": null,
+                "id": 1329480550508158977,
+                "id_str": "1329480550508158977",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "en",
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "place": {
+                    "attributes": {},
+                    "bounding_box": {
+                        "coordinates": [
+                            [
+                                [
+                                    77.22810151124453,
+                                    28.533019967942797
+                                ],
+                                [
+                                    77.22810151124453,
+                                    28.533019967942797
+                                ],
+                                [
+                                    77.22810151124453,
+                                    28.533019967942797
+                                ],
+                                [
+                                    77.22810151124453,
+                                    28.533019967942797
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon"
+                    },
+                    "contained_within": [],
+                    "country": "India",
+                    "country_code": "IN",
+                    "full_name": "College Of Vocational Studies",
+                    "id": "07d9cb0453c81000",
+                    "name": "College Of Vocational Studies",
+                    "place_type": "poi",
+                    "url": "https://api.twitter.com/1.1/geo/id/07d9cb0453c81000.json"
+                },
+                "possibly_sensitive": false,
+                "retweet_count": 0,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "text": "Green Brigade has organised a campaign to fight against air Pollution \"Air - Let's Make it Clean\" from 1st November… https://t.co/CDGq8cccu6",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Tue Sep 10 05:29:53 +0000 2019",
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "description": "This is the official Twitter account for College of Vocational Studies.",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "cvs.edu.in",
+                                    "expanded_url": "http://www.cvs.edu.in",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ],
+                                    "url": "https://t.co/llFdIhD26C"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 844,
+                    "follow_request_sent": null,
+                    "followers_count": 68,
+                    "following": null,
+                    "friends_count": 4,
+                    "geo_enabled": true,
+                    "has_extended_profile": true,
+                    "id": 1171294636934959104,
+                    "id_str": "1171294636934959104",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": null,
+                    "listed_count": 0,
+                    "location": "नई दिल्ली, भारत",
+                    "name": "College of Vocational Studies - SMC CVS",
+                    "notifications": null,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1171294636934959104/1595351104",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1172228102153494528/cDVik1SU_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1172228102153494528/cDVik1SU_normal.jpg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "SMCCVSDU",
+                    "statuses_count": 1025,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": "https://t.co/llFdIhD26C",
+                    "utc_offset": null,
+                    "verified": false
+                }
+            },
+            {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Sat Nov 14 13:50:54 +0000 2020",
+                "entities": {
+                    "hashtags": [],
+                    "media": [
+                        {
+                            "display_url": "pic.twitter.com/OH9NK3u13y",
+                            "expanded_url": "https://twitter.com/arvindgunasekar/status/1327609957601091595/video/1",
+                            "id": 1327609916874498048,
+                            "id_str": "1327609916874498048",
+                            "indices": [
+                                57,
+                                80
+                            ],
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1327609916874498048/pu/img/zvzFV2pmo6sk8thd.jpg",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1327609916874498048/pu/img/zvzFV2pmo6sk8thd.jpg",
+                            "sizes": {
+                                "large": {
+                                    "h": 720,
+                                    "resize": "fit",
+                                    "w": 1280
+                                },
+                                "medium": {
+                                    "h": 675,
+                                    "resize": "fit",
+                                    "w": 1200
+                                },
+                                "small": {
+                                    "h": 383,
+                                    "resize": "fit",
+                                    "w": 680
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "resize": "crop",
+                                    "w": 150
+                                }
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/OH9NK3u13y"
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [],
+                    "user_mentions": []
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "additional_media_info": {
+                                "monetizable": false
+                            },
+                            "display_url": "pic.twitter.com/OH9NK3u13y",
+                            "expanded_url": "https://twitter.com/arvindgunasekar/status/1327609957601091595/video/1",
+                            "id": 1327609916874498048,
+                            "id_str": "1327609916874498048",
+                            "indices": [
+                                57,
+                                80
+                            ],
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1327609916874498048/pu/img/zvzFV2pmo6sk8thd.jpg",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1327609916874498048/pu/img/zvzFV2pmo6sk8thd.jpg",
+                            "sizes": {
+                                "large": {
+                                    "h": 720,
+                                    "resize": "fit",
+                                    "w": 1280
+                                },
+                                "medium": {
+                                    "h": 675,
+                                    "resize": "fit",
+                                    "w": 1200
+                                },
+                                "small": {
+                                    "h": 383,
+                                    "resize": "fit",
+                                    "w": 680
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "resize": "crop",
+                                    "w": 150
+                                }
+                            },
+                            "type": "video",
+                            "url": "https://t.co/OH9NK3u13y",
+                            "video_info": {
+                                "aspect_ratio": [
+                                    16,
+                                    9
+                                ],
+                                "duration_millis": 20957,
+                                "variants": [
+                                    {
+                                        "bitrate": 832000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1327609916874498048/pu/vid/640x360/d_zBJz8Qo0mXluGY.mp4?tag=10"
+                                    },
+                                    {
+                                        "bitrate": 2176000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1327609916874498048/pu/vid/1280x720/L9yFbKYBRf18w7yG.mp4?tag=10"
+                                    },
+                                    {
+                                        "bitrate": 256000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1327609916874498048/pu/vid/480x270/dr0EAAWrGk31T149.mp4?tag=10"
+                                    },
+                                    {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/ext_tw_video/1327609916874498048/pu/pl/Sulgm3XPdNREqR6r.m3u8?tag=10"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "favorite_count": 471,
+                "favorited": false,
+                "geo": null,
+                "id": 1327609957601091595,
+                "id_str": "1327609957601091595",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "en",
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "place": {
+                    "attributes": {},
+                    "bounding_box": {
+                        "coordinates": [
+                            [
+                                [
+                                    77.228266,
+                                    28.527139
+                                ],
+                                [
+                                    77.250199,
+                                    28.527139
+                                ],
+                                [
+                                    77.250199,
+                                    28.560477
+                                ],
+                                [
+                                    77.228266,
+                                    28.560477
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon"
+                    },
+                    "contained_within": [],
+                    "country": "India",
+                    "country_code": "IN",
+                    "full_name": "Greater Kailash, New Delhi",
+                    "id": "1c2c8504c9512bc3",
+                    "name": "Greater Kailash",
+                    "place_type": "neighborhood",
+                    "url": "https://api.twitter.com/1.1/geo/id/1c2c8504c9512bc3.json"
+                },
+                "possibly_sensitive": false,
+                "retweet_count": 33,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "text": "Air Pollution ? Who cares ?!\nCrackers have started 🤦🏻‍♂️ https://t.co/OH9NK3u13y",
+                "truncated": false,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Tue Feb 09 13:00:23 +0000 2010",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "description": "Journalist based in Delhi. Masters in International Relations, JNU. RT's are not endorsements.",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "ndtv.com/topic/arvind-g…",
+                                    "expanded_url": "https://www.ndtv.com/topic/arvind-gunasekar",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ],
+                                    "url": "https://t.co/f8RUXAwr4Y"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 9316,
+                    "follow_request_sent": null,
+                    "followers_count": 90283,
+                    "following": null,
+                    "friends_count": 1523,
+                    "geo_enabled": true,
+                    "has_extended_profile": true,
+                    "id": 112709207,
+                    "id_str": "112709207",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": null,
+                    "listed_count": 312,
+                    "location": "New Delhi",
+                    "name": "Arvind Gunasekar",
+                    "notifications": null,
+                    "profile_background_color": "1A1B1F",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/112709207/1497877906",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1105167216872349696/4E06RUnR_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105167216872349696/4E06RUnR_normal.jpg",
+                    "profile_link_color": "2FC2EF",
+                    "profile_sidebar_border_color": "181A1E",
+                    "profile_sidebar_fill_color": "252429",
+                    "profile_text_color": "666666",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "arvindgunasekar",
+                    "statuses_count": 29561,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": "https://t.co/f8RUXAwr4Y",
+                    "utc_offset": null,
+                    "verified": true
+                }
+            }
+        ]
+    },
+    {
+        "search_metadata": {
+            "completed_in": 0.023,
+            "count": 100,
+            "max_id": 1327929045951016960,
+            "max_id_str": "1327929045951016960",
+            "next_results": "?max_id=1327929045951016959&q=%28litter%20OR%20pollution%29&geocode=28.6143478%2C77.19942999999999%2C1mi&lang=en&count=100&include_entities=1",
+            "query": "%28litter+OR+pollution%29",
+            "refresh_url": "?since_id=1327929045951016960&q=%28litter%20OR%20pollution%29&geocode=28.6143478%2C77.19942999999999%2C1mi&lang=en&include_entities=1",
+            "since_id": 0,
+            "since_id_str": "0"
+        },
+        "statuses": [
+            {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Sun Nov 15 10:58:50 +0000 2020",
+                "entities": {
+                    "hashtags": [],
+                    "media": [
+                        {
+                            "display_url": "pic.twitter.com/ELtLS5nxCD",
+                            "expanded_url": "https://twitter.com/iamshreytyagi/status/1327929045951016960/video/1",
+                            "id": 1327928340578123778,
+                            "id_str": "1327928340578123778",
+                            "indices": [
+                                36,
+                                59
+                            ],
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1327928340578123778/pu/img/F4X7Qu9Pwx2fQ_Jd.jpg",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1327928340578123778/pu/img/F4X7Qu9Pwx2fQ_Jd.jpg",
+                            "sizes": {
+                                "large": {
+                                    "h": 720,
+                                    "resize": "fit",
+                                    "w": 960
+                                },
+                                "medium": {
+                                    "h": 720,
+                                    "resize": "fit",
+                                    "w": 960
+                                },
+                                "small": {
+                                    "h": 510,
+                                    "resize": "fit",
+                                    "w": 680
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "resize": "crop",
+                                    "w": 150
+                                }
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/ELtLS5nxCD"
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [],
+                    "user_mentions": []
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "additional_media_info": {
+                                "monetizable": false
+                            },
+                            "display_url": "pic.twitter.com/ELtLS5nxCD",
+                            "expanded_url": "https://twitter.com/iamshreytyagi/status/1327929045951016960/video/1",
+                            "id": 1327928340578123778,
+                            "id_str": "1327928340578123778",
+                            "indices": [
+                                36,
+                                59
+                            ],
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1327928340578123778/pu/img/F4X7Qu9Pwx2fQ_Jd.jpg",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1327928340578123778/pu/img/F4X7Qu9Pwx2fQ_Jd.jpg",
+                            "sizes": {
+                                "large": {
+                                    "h": 720,
+                                    "resize": "fit",
+                                    "w": 960
+                                },
+                                "medium": {
+                                    "h": 720,
+                                    "resize": "fit",
+                                    "w": 960
+                                },
+                                "small": {
+                                    "h": 510,
+                                    "resize": "fit",
+                                    "w": 680
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "resize": "crop",
+                                    "w": 150
+                                }
+                            },
+                            "type": "video",
+                            "url": "https://t.co/ELtLS5nxCD",
+                            "video_info": {
+                                "aspect_ratio": [
+                                    4,
+                                    3
+                                ],
+                                "duration_millis": 35913,
+                                "variants": [
+                                    {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/ext_tw_video/1327928340578123778/pu/pl/KDwlwujiu9-qO0H_.m3u8?tag=10"
+                                    },
+                                    {
+                                        "bitrate": 2176000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1327928340578123778/pu/vid/960x720/jO6stSpjtTuNzHE1.mp4?tag=10"
+                                    },
+                                    {
+                                        "bitrate": 832000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1327928340578123778/pu/vid/480x360/5ZfyaeGcUqCCXex8.mp4?tag=10"
+                                    },
+                                    {
+                                        "bitrate": 256000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1327928340578123778/pu/vid/360x270/uxAZ2GN66v5Tvtbv.mp4?tag=10"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "favorite_count": 1,
+                "favorited": false,
+                "geo": null,
+                "id": 1327929045951016960,
+                "id_str": "1327929045951016960",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "en",
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "place": {
+                    "attributes": {},
+                    "bounding_box": {
+                        "coordinates": [
+                            [
+                                [
+                                    77.21551895141602,
+                                    28.615267765944425
+                                ],
+                                [
+                                    77.21551895141602,
+                                    28.615267765944425
+                                ],
+                                [
+                                    77.21551895141602,
+                                    28.615267765944425
+                                ],
+                                [
+                                    77.21551895141602,
+                                    28.615267765944425
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon"
+                    },
+                    "contained_within": [],
+                    "country": "India",
+                    "country_code": "IN",
+                    "full_name": "New Delhi | नई दिल्ली",
+                    "id": "09523331add50000",
+                    "name": "New Delhi | नई दिल्ली",
+                    "place_type": "poi",
+                    "url": "https://api.twitter.com/1.1/geo/id/09523331add50000.json"
+                },
+                "possibly_sensitive": false,
+                "retweet_count": 0,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "text": "Pollution, guys. Delhi's pollution. https://t.co/ELtLS5nxCD",
+                "truncated": false,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Tue Jun 09 10:29:05 +0000 2015",
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "description": "Good For Nothing\n⠀\n⠀\n⠀\n\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀⠀\n⠀\n⠀\n⠀\n⠀\n⠀",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "favourites_count": 3304,
+                    "follow_request_sent": null,
+                    "followers_count": 134,
+                    "following": null,
+                    "friends_count": 153,
+                    "geo_enabled": true,
+                    "has_extended_profile": true,
+                    "id": 3240684614,
+                    "id_str": "3240684614",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": null,
+                    "listed_count": 0,
+                    "location": "",
+                    "name": "Shrey Tyagi",
+                    "notifications": null,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3240684614/1603471868",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1322591361699180545/lM_m-XlW_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1322591361699180545/lM_m-XlW_normal.jpg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "iamshreytyagi",
+                    "statuses_count": 4834,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": null,
+                    "utc_offset": null,
+                    "verified": false
+                }
+            }
+        ]
+    },
+    {
+        "search_metadata": {
+            "completed_in": 0.017,
+            "count": 100,
+            "max_id": 1330313893676265473,
+            "max_id_str": "1330313893676265473",
+            "query": "%28litter+OR+pollution%29",
+            "refresh_url": "?since_id=1330313893676265473&q=%28litter%20OR%20pollution%29&geocode=28.6584318%2C77.24354129999999%2C1mi&lang=en&include_entities=1",
+            "since_id": 0,
+            "since_id_str": "0"
+        },
+        "statuses": []
+    },
+    {
+        "search_metadata": {
+            "completed_in": 0.026,
+            "count": 100,
+            "max_id": 1327641532862664705,
+            "max_id_str": "1327641532862664705",
+            "next_results": "?max_id=1327641532862664704&q=%28litter%20OR%20pollution%29&geocode=28.7088457%2C77.1676311%2C1mi&lang=en&count=100&include_entities=1",
+            "query": "%28litter+OR+pollution%29",
+            "refresh_url": "?since_id=1327641532862664705&q=%28litter%20OR%20pollution%29&geocode=28.7088457%2C77.1676311%2C1mi&lang=en&include_entities=1",
+            "since_id": 0,
+            "since_id_str": "0"
+        },
+        "statuses": [
+            {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Sat Nov 14 15:56:22 +0000 2020",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "user_mentions": [
+                        {
+                            "id": 1850705408,
+                            "id_str": "1850705408",
+                            "indices": [
+                                0,
+                                12
+                            ],
+                            "name": "#DilKiPolice Delhi Police",
+                            "screen_name": "DelhiPolice"
+                        }
+                    ]
+                },
+                "favorite_count": 0,
+                "favorited": false,
+                "geo": null,
+                "id": 1327641532862664705,
+                "id_str": "1327641532862664705",
+                "in_reply_to_screen_name": "DelhiPolice",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": 1850705408,
+                "in_reply_to_user_id_str": "1850705408",
+                "is_quote_status": false,
+                "lang": "en",
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "place": {
+                    "attributes": {},
+                    "bounding_box": {
+                        "coordinates": [
+                            [
+                                [
+                                    77.18928847927491,
+                                    28.70124229892223
+                                ],
+                                [
+                                    77.18928847927491,
+                                    28.70124229892223
+                                ],
+                                [
+                                    77.18928847927491,
+                                    28.70124229892223
+                                ],
+                                [
+                                    77.18928847927491,
+                                    28.70124229892223
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon"
+                    },
+                    "contained_within": [],
+                    "country": "India",
+                    "country_code": "IN",
+                    "full_name": "Gola Northend",
+                    "id": "07d9ceb4c6088003",
+                    "name": "Gola Northend",
+                    "place_type": "poi",
+                    "url": "https://api.twitter.com/1.1/geo/id/07d9ceb4c6088003.json"
+                },
+                "retweet_count": 0,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "text": "@DelhiPolice wher is police to control crackers to control pollution full swing of crackers around me \nDerawal Nagar Delhi 9",
+                "truncated": false,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Sun Feb 02 18:31:53 +0000 2020",
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "description": "no comes n help yourself",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "favourites_count": 0,
+                    "follow_request_sent": null,
+                    "followers_count": 1,
+                    "following": null,
+                    "friends_count": 10,
+                    "geo_enabled": true,
+                    "has_extended_profile": false,
+                    "id": 1224037659607101440,
+                    "id_str": "1224037659607101440",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": null,
+                    "listed_count": 0,
+                    "location": "",
+                    "name": "Mohit Oberay",
+                    "notifications": null,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1255391331150684160/EmyfzPay_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255391331150684160/EmyfzPay_normal.jpg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "OberayMohit",
+                    "statuses_count": 4,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": null,
+                    "utc_offset": null,
+                    "verified": false
+                }
+            }
+        ]
+    },
+    {
+        "search_metadata": {
+            "completed_in": 0.034,
+            "count": 100,
+            "max_id": 1329018597826433025,
+            "max_id_str": "1329018597826433025",
+            "next_results": "?max_id=1329018597826433024&q=%28litter%20OR%20pollution%29&geocode=28.5930959%2C77.21967939999999%2C1mi&lang=en&count=100&include_entities=1",
+            "query": "%28litter+OR+pollution%29",
+            "refresh_url": "?since_id=1329018597826433025&q=%28litter%20OR%20pollution%29&geocode=28.5930959%2C77.21967939999999%2C1mi&lang=en&include_entities=1",
+            "since_id": 0,
+            "since_id_str": "0"
+        },
+        "statuses": [
+            {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Wed Nov 18 11:08:20 +0000 2020",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "expanded_url": "https://twitter.com/i/web/status/1329018597826433025",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/NFXBAGiqmp"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 1,
+                "favorited": false,
+                "geo": null,
+                "id": 1329018597826433025,
+                "id_str": "1329018597826433025",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "en",
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "place": {
+                    "attributes": {},
+                    "bounding_box": {
+                        "coordinates": [
+                            [
+                                [
+                                    77.21853,
+                                    28.584675
+                                ],
+                                [
+                                    77.21853,
+                                    28.584675
+                                ],
+                                [
+                                    77.21853,
+                                    28.584675
+                                ],
+                                [
+                                    77.21853,
+                                    28.584675
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon"
+                    },
+                    "contained_within": [],
+                    "country": "India",
+                    "country_code": "IN",
+                    "full_name": "indira paryavaran bhavan",
+                    "id": "0a640504d2d78000",
+                    "name": "indira paryavaran bhavan",
+                    "place_type": "poi",
+                    "url": "https://api.twitter.com/1.1/geo/id/0a640504d2d78000.json"
+                },
+                "possibly_sensitive": false,
+                "retweet_count": 1,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "text": "Preparations for the TECH-Trial Run has started in full swing. We are gearing up for bringing a solution to polluti… https://t.co/NFXBAGiqmp",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Sun Apr 17 03:06:21 +0000 2011",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "description": "Program Director @EoDB_IN, https://t.co/zf63YW5BMv, Country Director INDIA at https://t.co/YV8q3sK2iz, Ex Banker, Detached Observer & Urdu Poet, https://t.co/uE4Ow39On4",
+                    "entities": {
+                        "description": {
+                            "urls": [
+                                {
+                                    "display_url": "Nhev.in",
+                                    "expanded_url": "http://Nhev.in",
+                                    "indices": [
+                                        27,
+                                        50
+                                    ],
+                                    "url": "https://t.co/zf63YW5BMv"
+                                },
+                                {
+                                    "display_url": "ASSAR.in",
+                                    "expanded_url": "http://ASSAR.in",
+                                    "indices": [
+                                        78,
+                                        101
+                                    ],
+                                    "url": "https://t.co/YV8q3sK2iz"
+                                },
+                                {
+                                    "display_url": "abhijeetsinha.in",
+                                    "expanded_url": "http://abhijeetsinha.in",
+                                    "indices": [
+                                        145,
+                                        168
+                                    ],
+                                    "url": "https://t.co/uE4Ow39On4"
+                                }
+                            ]
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "easeofdoingbusiness.in",
+                                    "expanded_url": "http://www.easeofdoingbusiness.in",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ],
+                                    "url": "https://t.co/n1eL4UdtZG"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 2317,
+                    "follow_request_sent": null,
+                    "followers_count": 1155,
+                    "following": null,
+                    "friends_count": 997,
+                    "geo_enabled": true,
+                    "has_extended_profile": true,
+                    "id": 283338763,
+                    "id_str": "283338763",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": null,
+                    "listed_count": 101,
+                    "location": "New Delhi, India",
+                    "name": "Abhijeet Sinha",
+                    "notifications": null,
+                    "profile_background_color": "C2C2C2",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/283338763/1550231010",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1173810961649688576/Oy66e759_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1173810961649688576/Oy66e759_normal.jpg",
+                    "profile_link_color": "3B94D9",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "EFEFEF",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "Abhijeet_Sinhaa",
+                    "statuses_count": 9270,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": "https://t.co/n1eL4UdtZG",
+                    "utc_offset": null,
+                    "verified": false
+                }
+            }
+        ]
+    },
+    {
+        "search_metadata": {
+            "completed_in": 0.014,
+            "count": 100,
+            "max_id": 1330313897056890880,
+            "max_id_str": "1330313897056890880",
+            "query": "%28litter+OR+pollution%29",
+            "refresh_url": "?since_id=1330313897056890880&q=%28litter%20OR%20pollution%29&geocode=28.6095744%2C77.24373709999999%2C1mi&lang=en&include_entities=1",
+            "since_id": 0,
+            "since_id_str": "0"
+        },
+        "statuses": []
+    },
+    {
+        "search_metadata": {
+            "completed_in": 0.03,
+            "count": 100,
+            "max_id": 1329018597826433025,
+            "max_id_str": "1329018597826433025",
+            "next_results": "?max_id=1329018597826433024&q=%28litter%20OR%20pollution%29&geocode=28.5913713%2C77.24193489999999%2C1mi&lang=en&count=100&include_entities=1",
+            "query": "%28litter+OR+pollution%29",
+            "refresh_url": "?since_id=1329018597826433025&q=%28litter%20OR%20pollution%29&geocode=28.5913713%2C77.24193489999999%2C1mi&lang=en&include_entities=1",
+            "since_id": 0,
+            "since_id_str": "0"
+        },
+        "statuses": [
+            {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Wed Nov 18 11:08:20 +0000 2020",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "expanded_url": "https://twitter.com/i/web/status/1329018597826433025",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/NFXBAGiqmp"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 1,
+                "favorited": false,
+                "geo": null,
+                "id": 1329018597826433025,
+                "id_str": "1329018597826433025",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "en",
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "place": {
+                    "attributes": {},
+                    "bounding_box": {
+                        "coordinates": [
+                            [
+                                [
+                                    77.21853,
+                                    28.584675
+                                ],
+                                [
+                                    77.21853,
+                                    28.584675
+                                ],
+                                [
+                                    77.21853,
+                                    28.584675
+                                ],
+                                [
+                                    77.21853,
+                                    28.584675
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon"
+                    },
+                    "contained_within": [],
+                    "country": "India",
+                    "country_code": "IN",
+                    "full_name": "indira paryavaran bhavan",
+                    "id": "0a640504d2d78000",
+                    "name": "indira paryavaran bhavan",
+                    "place_type": "poi",
+                    "url": "https://api.twitter.com/1.1/geo/id/0a640504d2d78000.json"
+                },
+                "possibly_sensitive": false,
+                "retweet_count": 1,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "text": "Preparations for the TECH-Trial Run has started in full swing. We are gearing up for bringing a solution to polluti… https://t.co/NFXBAGiqmp",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Sun Apr 17 03:06:21 +0000 2011",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "description": "Program Director @EoDB_IN, https://t.co/zf63YW5BMv, Country Director INDIA at https://t.co/YV8q3sK2iz, Ex Banker, Detached Observer & Urdu Poet, https://t.co/uE4Ow39On4",
+                    "entities": {
+                        "description": {
+                            "urls": [
+                                {
+                                    "display_url": "Nhev.in",
+                                    "expanded_url": "http://Nhev.in",
+                                    "indices": [
+                                        27,
+                                        50
+                                    ],
+                                    "url": "https://t.co/zf63YW5BMv"
+                                },
+                                {
+                                    "display_url": "ASSAR.in",
+                                    "expanded_url": "http://ASSAR.in",
+                                    "indices": [
+                                        78,
+                                        101
+                                    ],
+                                    "url": "https://t.co/YV8q3sK2iz"
+                                },
+                                {
+                                    "display_url": "abhijeetsinha.in",
+                                    "expanded_url": "http://abhijeetsinha.in",
+                                    "indices": [
+                                        145,
+                                        168
+                                    ],
+                                    "url": "https://t.co/uE4Ow39On4"
+                                }
+                            ]
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "easeofdoingbusiness.in",
+                                    "expanded_url": "http://www.easeofdoingbusiness.in",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ],
+                                    "url": "https://t.co/n1eL4UdtZG"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 2317,
+                    "follow_request_sent": null,
+                    "followers_count": 1155,
+                    "following": null,
+                    "friends_count": 997,
+                    "geo_enabled": true,
+                    "has_extended_profile": true,
+                    "id": 283338763,
+                    "id_str": "283338763",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": null,
+                    "listed_count": 101,
+                    "location": "New Delhi, India",
+                    "name": "Abhijeet Sinha",
+                    "notifications": null,
+                    "profile_background_color": "C2C2C2",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/283338763/1550231010",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1173810961649688576/Oy66e759_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1173810961649688576/Oy66e759_normal.jpg",
+                    "profile_link_color": "3B94D9",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "EFEFEF",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "Abhijeet_Sinhaa",
+                    "statuses_count": 9270,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": "https://t.co/n1eL4UdtZG",
+                    "utc_offset": null,
+                    "verified": false
+                }
+            }
+        ]
+    },
+    {
+        "search_metadata": {
+            "completed_in": 0.041,
+            "count": 100,
+            "max_id": 1330313899028176899,
+            "max_id_str": "1330313899028176899",
+            "query": "%28litter+OR+pollution%29",
+            "refresh_url": "?since_id=1330313899028176899&q=%28litter%20OR%20pollution%29&geocode=28.6273518%2C77.2324608%2C1mi&lang=en&include_entities=1",
+            "since_id": 0,
+            "since_id_str": "0"
+        },
+        "statuses": []
+    },
+    {
+        "search_metadata": {
+            "completed_in": 0.024,
+            "count": 100,
+            "max_id": 1327929045951016960,
+            "max_id_str": "1327929045951016960",
+            "next_results": "?max_id=1327929045951016959&q=%28litter%20OR%20pollution%29&geocode=28.6285641%2C77.20680709999999%2C1mi&lang=en&count=100&include_entities=1",
+            "query": "%28litter+OR+pollution%29",
+            "refresh_url": "?since_id=1327929045951016960&q=%28litter%20OR%20pollution%29&geocode=28.6285641%2C77.20680709999999%2C1mi&lang=en&include_entities=1",
+            "since_id": 0,
+            "since_id_str": "0"
+        },
+        "statuses": [
+            {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Sun Nov 15 10:58:50 +0000 2020",
+                "entities": {
+                    "hashtags": [],
+                    "media": [
+                        {
+                            "display_url": "pic.twitter.com/ELtLS5nxCD",
+                            "expanded_url": "https://twitter.com/iamshreytyagi/status/1327929045951016960/video/1",
+                            "id": 1327928340578123778,
+                            "id_str": "1327928340578123778",
+                            "indices": [
+                                36,
+                                59
+                            ],
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1327928340578123778/pu/img/F4X7Qu9Pwx2fQ_Jd.jpg",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1327928340578123778/pu/img/F4X7Qu9Pwx2fQ_Jd.jpg",
+                            "sizes": {
+                                "large": {
+                                    "h": 720,
+                                    "resize": "fit",
+                                    "w": 960
+                                },
+                                "medium": {
+                                    "h": 720,
+                                    "resize": "fit",
+                                    "w": 960
+                                },
+                                "small": {
+                                    "h": 510,
+                                    "resize": "fit",
+                                    "w": 680
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "resize": "crop",
+                                    "w": 150
+                                }
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/ELtLS5nxCD"
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [],
+                    "user_mentions": []
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "additional_media_info": {
+                                "monetizable": false
+                            },
+                            "display_url": "pic.twitter.com/ELtLS5nxCD",
+                            "expanded_url": "https://twitter.com/iamshreytyagi/status/1327929045951016960/video/1",
+                            "id": 1327928340578123778,
+                            "id_str": "1327928340578123778",
+                            "indices": [
+                                36,
+                                59
+                            ],
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1327928340578123778/pu/img/F4X7Qu9Pwx2fQ_Jd.jpg",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1327928340578123778/pu/img/F4X7Qu9Pwx2fQ_Jd.jpg",
+                            "sizes": {
+                                "large": {
+                                    "h": 720,
+                                    "resize": "fit",
+                                    "w": 960
+                                },
+                                "medium": {
+                                    "h": 720,
+                                    "resize": "fit",
+                                    "w": 960
+                                },
+                                "small": {
+                                    "h": 510,
+                                    "resize": "fit",
+                                    "w": 680
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "resize": "crop",
+                                    "w": 150
+                                }
+                            },
+                            "type": "video",
+                            "url": "https://t.co/ELtLS5nxCD",
+                            "video_info": {
+                                "aspect_ratio": [
+                                    4,
+                                    3
+                                ],
+                                "duration_millis": 35913,
+                                "variants": [
+                                    {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/ext_tw_video/1327928340578123778/pu/pl/KDwlwujiu9-qO0H_.m3u8?tag=10"
+                                    },
+                                    {
+                                        "bitrate": 2176000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1327928340578123778/pu/vid/960x720/jO6stSpjtTuNzHE1.mp4?tag=10"
+                                    },
+                                    {
+                                        "bitrate": 832000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1327928340578123778/pu/vid/480x360/5ZfyaeGcUqCCXex8.mp4?tag=10"
+                                    },
+                                    {
+                                        "bitrate": 256000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1327928340578123778/pu/vid/360x270/uxAZ2GN66v5Tvtbv.mp4?tag=10"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "favorite_count": 1,
+                "favorited": false,
+                "geo": null,
+                "id": 1327929045951016960,
+                "id_str": "1327929045951016960",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "en",
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "place": {
+                    "attributes": {},
+                    "bounding_box": {
+                        "coordinates": [
+                            [
+                                [
+                                    77.21551895141602,
+                                    28.615267765944425
+                                ],
+                                [
+                                    77.21551895141602,
+                                    28.615267765944425
+                                ],
+                                [
+                                    77.21551895141602,
+                                    28.615267765944425
+                                ],
+                                [
+                                    77.21551895141602,
+                                    28.615267765944425
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon"
+                    },
+                    "contained_within": [],
+                    "country": "India",
+                    "country_code": "IN",
+                    "full_name": "New Delhi | नई दिल्ली",
+                    "id": "09523331add50000",
+                    "name": "New Delhi | नई दिल्ली",
+                    "place_type": "poi",
+                    "url": "https://api.twitter.com/1.1/geo/id/09523331add50000.json"
+                },
+                "possibly_sensitive": false,
+                "retweet_count": 0,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "text": "Pollution, guys. Delhi's pollution. https://t.co/ELtLS5nxCD",
+                "truncated": false,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Tue Jun 09 10:29:05 +0000 2015",
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "description": "Good For Nothing\n⠀\n⠀\n⠀\n\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀\n⠀⠀\n⠀\n⠀\n⠀\n⠀\n⠀",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "favourites_count": 3304,
+                    "follow_request_sent": null,
+                    "followers_count": 134,
+                    "following": null,
+                    "friends_count": 153,
+                    "geo_enabled": true,
+                    "has_extended_profile": true,
+                    "id": 3240684614,
+                    "id_str": "3240684614",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": null,
+                    "listed_count": 0,
+                    "location": "",
+                    "name": "Shrey Tyagi",
+                    "notifications": null,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3240684614/1603471868",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1322591361699180545/lM_m-XlW_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1322591361699180545/lM_m-XlW_normal.jpg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "iamshreytyagi",
+                    "statuses_count": 4834,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": null,
+                    "utc_offset": null,
+                    "verified": false
+                }
+            }
+        ]
+    }
+]

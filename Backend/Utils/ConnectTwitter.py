@@ -42,23 +42,20 @@ def createLatLongVal(lat, lng, dist):
 
 def getRelatedTweets(place, query):
     tempData = []
-    searchWords = "nature tourist site"
 
-    data = MapConnect.getNearbyPlaces(place, searchWords)
-    print(place)
-    print(searchWords)
     url = createUrl(searchUrl, query)
+    data = MapConnect.getNearbyPlaces(place, None)
     headers = createHeaders(Bearer, ConsumerKey)
 
     for place in data:
-        tempData.append([str(place['geocode']['lat']), str(place['geocode']['lng'])])
+        tempData.append([str(place['geometry']['location']['lat']), str(place['geometry']['location']['lng'])])
     
     tempData = [createLatLongVal(i[0], i[1], "1mi") for i in tempData]
 
-    tempData = [addQuery(url, "geocode", i) for i in tempData]
-
-    tempData = [addQuery(i, "count", "100") for i in tempData]
+    tempData = [addQuery(addQuery(addQuery(url, "geocode", i), "lang", "en"), "count", "100") for i in tempData]
 
     tempData = [connectToEndpoint(i, headers, "GET", None) for i in tempData]
+
+    tempData = [{"name":data[i]["name"], "statuses":tempData[i]["statuses"]} for i in range(len(tempData)) if len(tempData[i]["statuses"]) > 0]
 
     return tempData

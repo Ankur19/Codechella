@@ -10,16 +10,16 @@ def getTweets():
     searchWords = "climate change"
     return make_response(ConnectTwitter.getSearchResult(searchWords), 200)
 
-@bp.route('/getRelatedTweets', methods = ['GET'])
+@bp.route('/getRelatedTweets/<which>/<place>', methods = ['GET'])
 @cross_origin()
-def getRelatedTweets():
-    place = "delhi, india"
-    query = "pollution"
+def getRelatedTweets(which, place):
+    if which=="good":
+        query = "(climate action) OR (fight pollution) OR (clean drive) OR (pollution solution)"
+    else:
+        query = "(litter plastic) OR (garbage dump) OR (plastic pollution) OR pollution OR (climate change)"
     return make_response(jsonify(ConnectTwitter.getRelatedTweets(place, query)), 200)
 
-@bp.route('/getNearbyPlaces', methods = ['GET'])
+@bp.route('/getNearbyPlaces/<place>', methods = ['GET'])
 @cross_origin()
-def getNearbyPlaces():
-    place = "chicago"
-    searchWords = "environment, nature, tourist"
-    return make_response(jsonify(MapConnect.getNearbyPlaces(place, searchWords)), 200)
+def getNearbyPlaces(place):
+    return make_response(jsonify(str(MapConnect.getNearbyPlaces(place, None))), 200)
